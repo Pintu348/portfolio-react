@@ -22,7 +22,7 @@ const projects = [
 
 export default function Projects() {
   return (
-    <section className='max-w-5xl mx-auto px-4 py-16'>
+    <section className='max-w-5xl mx-auto px-4 pt-16'>
       <h1 className='text-4xl font-extrabold text-indigo-600 dark:text-indigo-400 mb-8'>
         Projects
       </h1>
